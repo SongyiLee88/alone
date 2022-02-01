@@ -1,3 +1,11 @@
 body{
     background: radial-gradient( yellow, red, brown );
 }
+
+.triangle {
+    width: 200px;
+    height: 200px;
+    border-bottom: 360px solid #666666;
+    border-left: 180px solid #666666;
+    border-right: 180px solid #666666;
+  }
